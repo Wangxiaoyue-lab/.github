@@ -8,7 +8,17 @@
     "remotePath": "/path/in/server",
     "context": "\\path\\in\\your\\windows",
     "uploadOnSave": true,
+    "ignore": [
+        "**/.idea/**",
+        "**/.vscode/**",
+        "**/.git/**",
+        "**/.DS_Store"
+    ],
     "useTempFile": false,
-    "openSsh": false
+    "watcher": {
+        "files": "*",
+        "autoUpload": true,
+        "autoDelete": true
+    }
 }
 
