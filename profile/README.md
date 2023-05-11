@@ -1,5 +1,6 @@
 ## Hi there 👋
-This is the bioinformatcs site of Wang Xiaoyue Lab.
+This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.
+If you have any questions or suggestions, please contact with us!
 <!--
 
 **Here are some ideas to get you started:**
