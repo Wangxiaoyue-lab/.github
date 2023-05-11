@@ -1,0 +1,14 @@
+{
+    "name": "My Server",
+    "host": "10.168.203.60",
+    "protocol": "sftp",
+    "port": 22,
+    "username": "your_name",
+    "password": "your_password",
+    "remotePath": "/path/in/server",
+    "context": "\\path\\in\\your\\windows",
+    "uploadOnSave": true,
+    "useTempFile": false,
+    "openSsh": false
+}
+
