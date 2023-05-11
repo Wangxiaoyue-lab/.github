@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.
+This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.\n
 
 If you have any questions or suggestions, please contact with us!
 <!--
