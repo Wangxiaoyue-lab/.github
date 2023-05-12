@@ -8,15 +8,17 @@ If you have any questions or suggestions, please contact with us!
 ## Simple Introduction for our repositorys
 ### Published
 
+### Pipeline
+- PICASSO: the code base of single cell omics
+- VINCI: the code base of bulk omics
+- FISHER: the code base of statistics and machine learning
 
 ### Infrastructure
 - .github: basic configuration
-- PICASSO: the code base of single cell omics
 - SHANNON: the konwledge base of single cell omics 
-- FISHER: the code base of statistics and machine learning
 - cyber: the system of project management and result report
 - JET: the code accelerating R
-
+- package_and_debug: the packages you should install and the bugs need to be solved
 <!--
 
 **Here are some ideas to get you started:**
