@@ -1,8 +1,20 @@
 ## Hi there 👋
 This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.
 
-
 If you have any questions or suggestions, please contact with us!
+-
+## Simple Introduction for our repositorys
+### publish
+
+
+### infrastructure
+- .github: basic configuration
+- PICASSO: the code base of single cell omics
+- SHANNON: the konwledge base of single cell omics 
+- FISHER: the code base of statistics and machine learning
+- cyber: the system of project management and result report
+- JET: the code accelerating R
+
 <!--
 
 **Here are some ideas to get you started:**
