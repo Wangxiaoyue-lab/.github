@@ -2,12 +2,14 @@
 This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.
 
 If you have any questions or suggestions, please contact with us!
--
+- Corresponding author: pumcwangxy@163.com
+- Maintainer: caojundudu@qq.com
+
 ## Simple Introduction for our repositorys
-### publish
+### Published
 
 
-### infrastructure
+### Infrastructure
 - .github: basic configuration
 - PICASSO: the code base of single cell omics
 - SHANNON: the konwledge base of single cell omics 
