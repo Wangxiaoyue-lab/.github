@@ -18,7 +18,7 @@ If you have any questions or suggestions, please contact with us!
 - SHANNON: the konwledge base of single cell omics 
 - cyber: the system of project management and result report
 - JET: the code accelerating R
-- package_and_debug: the packages you should install and the bugs need to be solved
+- packages_and_debug: the packages you should install and the bugs need to be solved
 <!--
 
 **Here are some ideas to get you started:**
