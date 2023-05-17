@@ -13,11 +13,6 @@ If you have any questions or suggestions, please contact with us!
  
 
 ### 🌠Pipeline
-- 👁PICASSO: the code base of single cell omics
-- 🦕VINCI: the code base of bulk omics
-- ⛓VEGA-kit: the code for genomic analysis including annotation, function, sequence and motif analysis
-- 👴FISHER: the code base of statistics and machine learning
-
 |pipline|for|analysis|
 |:----:|:----:|:----:|
 |👁<br>PICASSO<br> the code base<br>of single cell omics|🦕<br>VINCI<br> the code base<br> of bulk omics|⛓<br>VEGA-kit<br> the code for genomic<br>analysis including annotation<br>, function, sequence and motif analysis|
