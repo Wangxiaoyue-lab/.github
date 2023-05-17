@@ -10,10 +10,7 @@ If you have any questions or suggestions, please contact with us!
 - ...
 - ...
 - ...
-||||
-|-|-|-|
-||||
-||||
+ 
 
 ### 🌠Pipeline
 - 👁PICASSO: the code base of single cell omics
@@ -23,8 +20,8 @@ If you have any questions or suggestions, please contact with us!
 
 |pipline|for|analysis|
 |:----:|:----:|:----:|
-|👁PICASSO\n the code base\nof single cell omics|🦕VINCI\n the code base\n of bulk omics|⛓VEGA-kit\n the code for genomic\nanalysis including annotation\n, function, sequence and motif analysis|
-|👴FISHER\n  the code base\n of statistics and machine learning|||
+|👁PICASSO<br> the code base<br>of single cell omics|🦕VINCI<br> the code base<br> of bulk omics|⛓VEGA-kit<br> the code for genomic<br>analysis including annotation<br>, function, sequence and motif analysis|
+|👴FISHER<br>  the code base<br> of statistics and machine learning|||
 
 ### 🏗Infrastructure
 - .github: basic configuration
