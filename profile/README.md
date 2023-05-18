@@ -15,8 +15,8 @@ If you have any questions or suggestions, please contact with us!
 ### 🌠Pipeline
 |pipline|for|analysis|
 |:----:|:----:|:----:|
-|👁<br>[PICASSO](https://github.com/Wangxiaoyue-lab/PICASSO)<br> the code base<br>of single cell omics|🦕<br>[VINCI](https://github.com/Wangxiaoyue-lab/VINCI)<br> the code base<br> of bulk omics|⛓<br>[VEGA-kit](https://github.com/Wangxiaoyue-lab/FISHER)<br> the code for genomic<br>analysis including annotation<br>, function, sequence and motif analysis|
-|👴<br>FISHER<br>  the code base<br> of statistics and machine learning|||
+|👁<br>[PICASSO](https://github.com/Wangxiaoyue-lab/PICASSO)<br> the code base<br>of single cell omics|🦕<br>[VINCI](https://github.com/Wangxiaoyue-lab/VINCI)<br> the code base<br> of bulk omics|⛓<br>[VEGA-kit](https://github.com/Wangxiaoyue-lab/VEGA-kit)<br> the code for genomic<br>analysis including annotation<br>, function, sequence and motif analysis|
+|👴<br>[FISHER](https://github.com/Wangxiaoyue-lab/FISHER)<br>  the code base<br> of statistics and machine learning|||
 
 ### 🏗Infrastructure
 - .github: basic configuration
