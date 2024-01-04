@@ -21,7 +21,6 @@ If you have any questions or suggestions, please contact with us!
 ### 🏗Infrastructure
 - .github: basic configuration
 - 🧯[packages_and_debug](https://github.com/Wangxiaoyue-lab/packages_and_debug): the packages you should install and the bugs need to be solved
-- ✍[SHANNON](https://github.com/Wangxiaoyue-lab/SHANNON): the konwledge base of single cell omics 
 - 👮‍♂️[cyber](https://github.com/Wangxiaoyue-lab/cyber): the system of project management and result report
 - 🚀[JET](https://github.com/Wangxiaoyue-lab/JET): the code accelerating R
 
