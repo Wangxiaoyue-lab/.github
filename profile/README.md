@@ -7,8 +7,8 @@ If you have any questions or suggestions, please contact with us!
 
 ## Simple Introduction for our repositorys
 ### 📖Published
-- [OSCAR](https://github.com/Wangxiaoyue-lab/OSCAR) @article (Genome Biology)[In-organoid single-cell CRISPR screening reveals determinants of hepatocyte differentiation and maturation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03084-8)
-- [FunUV](https://github.com/Wangxiaoyue-lab/FunUV) @article (Brief in bioinformatics)
+- [OSCAR](https://github.com/Wangxiaoyue-lab/OSCAR) @article (Genome Biology 2023)[In-organoid single-cell CRISPR screening reveals determinants of hepatocyte differentiation and maturation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03084-8)
+- [FunUV](https://github.com/Wangxiaoyue-lab/FunUV) @article (Brief in bioinformatics 2024)
 - ...
  
 
