@@ -3,7 +3,7 @@ This is the bioinformatIcs site of Wang Xiaoyue Lab from PUMC.
 
 If you have any questions or suggestions, please contact with us!
 - Corresponding author: pumcwangxy@163.com
-- Maintainer: caojundudu@qq.com
+- Maintainer: caoduduyzy@gmail.com
 
 ## Simple Introduction for our repositorys
 ### 📖Published
