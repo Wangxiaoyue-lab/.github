@@ -7,10 +7,11 @@ If you have any questions or suggestions, please contact with us!
 
 ## Simple Introduction for our repositorys
 ### 📖Published
-- [Aperture](https://github.com/liuhc8/Aperture) @article (Brief in Bioinformatics 2021)[Aperture: alignment-free detection of structural variations and viral integrations in circulating tumor DNA]
+- [Aperture](https://github.com/liuhc8/Aperture) @article (Brief in Bioinformatics 2021)[Aperture: alignment-free detection of structural variations and viral integrations in circulating tumor DNA](https://academic.oup.com/bib/article/22/6/bbab290/6345221?login=false)
 - [OSCAR](https://github.com/Wangxiaoyue-lab/OSCAR) @article (Genome Biology 2023)[In-organoid single-cell CRISPR screening reveals determinants of hepatocyte differentiation and maturation](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03084-8)
 - [FunUV](https://github.com/Wangxiaoyue-lab/FunUV) @article (Brief in Bioinformatics 2024)[Predicting functional UTR variants by integrating region-specific features](https://academic.oup.com/bib/article/25/4/bbae248/7680467)
 - [BEguider](https://github.com/Wangxiaoyue-lab/BEguider) @article(Communications Biology 2024)[Comprehensive evaluation and prediction of editing outcomes for near-PAMless adenine and cytosine base editors](https://www.nature.com/articles/s42003-024-07078-5)
+- [Endometriotic Lesions](https://github.com/Wangxiaoyue-lab/EMS)@article(cell genomics 2024) [Single-cell and spatial transcriptomic profiling revealed niche interactions sustaining growth of endometriotic lesions](https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00366-5)
 - ...
  
 
